@@ -1,0 +1,15 @@
+E:\Temp10\resultado_serpro\bin\Debug\net7.0\resultado_serpro.exe
+E:\Temp10\resultado_serpro\bin\Debug\net7.0\resultado_serpro.deps.json
+E:\Temp10\resultado_serpro\bin\Debug\net7.0\resultado_serpro.runtimeconfig.json
+E:\Temp10\resultado_serpro\bin\Debug\net7.0\resultado_serpro.dll
+E:\Temp10\resultado_serpro\bin\Debug\net7.0\resultado_serpro.pdb
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\resultado_serpro.csproj.AssemblyReference.cache
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\resultado_serpro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\resultado_serpro.AssemblyInfoInputs.cache
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\resultado_serpro.AssemblyInfo.cs
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\resultado_serpro.csproj.CoreCompileInputs.cache
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\resultado_serpro.dll
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\refint\resultado_serpro.dll
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\resultado_serpro.pdb
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\resultado_serpro.genruntimeconfig.cache
+E:\Temp10\resultado_serpro\obj\Debug\net7.0\ref\resultado_serpro.dll
